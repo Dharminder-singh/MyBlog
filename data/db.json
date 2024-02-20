@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "post 01",
+      "date": "January , 2024 ",
+      "body": "This is my first post on my blog page please follow me Thanks"
+    },
+    {
+      "id": "2",
+      "title": "post 02",
+      "date": "January , 2024 ",
+      "body": "This is my second post edited\nmn"
+    }
+  ]
+}
